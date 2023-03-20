@@ -9,6 +9,5 @@ package oop_assignment1.Interfaces;
  * @author ASUS
  */
 public interface CalculateSpace {
-    public double GetSurfaceArea();
     public double GetVolume();
 }
